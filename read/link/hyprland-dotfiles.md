@@ -11,6 +11,7 @@ parent: 連結
 * [HyDE](#hyde)
 * [JaKooLit](#jakoolit)
 * [End-4])(#end-4)
+* [ML4W](#ml4w)
 
 
 
@@ -34,3 +35,11 @@ parent: 連結
 
 * [dots-hyprland](https://github.com/end-4/dots-hyprland)
 * [dots-hyprland](https://github.com/end-4/dots-hyprland-wiki)
+
+
+
+
+## ML4W
+
+* [dotfiles](https://github.com/mylinuxforwork/dotfiles)
+* [ML4W](https://www.ml4w.com/)
