@@ -12,6 +12,7 @@ parent: 連結
 * [JaKooLit](#jakoolit)
 * [End-4])(#end-4)
 * [ML4W](#ml4w)
+* [yurihikari](#yurihikari)
 
 
 
@@ -43,3 +44,10 @@ parent: 連結
 
 * [dotfiles](https://github.com/mylinuxforwork/dotfiles)
 * [ML4W](https://www.ml4w.com/)
+
+
+
+
+## yurihikari
+
+* [garuda-hyprdots](https://github.com/yurihikari/garuda-hyprdots)
