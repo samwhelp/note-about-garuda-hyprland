@@ -8,9 +8,29 @@ parent: 連結
 
 # Hyprland Dotfiles
 
+* [HyDE](#hyde)
+* [JaKooLit](#jakoolit)
+* [End-4])(#end-4)
+
+
 
 
 ## HyDE
 
 * [HyDE](https://github.com/HyDE-Project/HyDE)
 * [hyprdots](https://github.com/prasanthrangan/hyprdots)
+
+
+
+
+## JaKooLit
+
+* [Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots)
+
+
+
+
+## End-4
+
+* [dots-hyprland](https://github.com/end-4/dots-hyprland)
+* [dots-hyprland](https://github.com/end-4/dots-hyprland-wiki)
