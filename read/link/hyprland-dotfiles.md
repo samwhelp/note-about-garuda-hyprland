@@ -10,7 +10,7 @@ parent: 連結
 
 * [HyDE](#hyde)
 * [JaKooLit](#jakoolit)
-* [End-4])(#end-4)
+* [End-4](#end-4)
 * [ML4W](#ml4w)
 * [yurihikari](#yurihikari)
 
